@@ -4,11 +4,11 @@ background-color: #efe9e9;
 
 header {
 display: flex;
-background-color: #d668ec;
+background-color: #ec68aa;
 }
 
 footer {
-background-color: mi#eb67ba;
+background-color: mi#e07ebc;
 }
 
 .cabecalho_imagem{
@@ -16,4 +16,10 @@ width: 200px;
 height: 200px;
 border-radius: 50%;
 padding: 20px;
+}
+
+.cabecalho_menu-listaitem{
+    display: inline;
+    text-transform: uppercase;
+    margin-left: 10px;
 }
