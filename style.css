@@ -6,6 +6,8 @@ header{
 display: flex;
 align-items: space-between;
 background-color: #ec68aa;
+justify-content: space-between;
+align-items: center;
 }
 
 footer {
