@@ -19,6 +19,10 @@ border-radius: 50%;
 padding: 20px;
 }
 
+.cabecalho_menu-list{
+    margin: 20px;
+}
+
 .cabecalho_menu-listaitem{
     display: inline;
     text-transform: uppercase;
