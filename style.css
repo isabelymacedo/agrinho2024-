@@ -1,11 +1,11 @@
 body{
 
-    background-color:#ddc164dc;/*coloca uma cor de fundo*/
+    background-color:#f1e538dc;/*coloca uma cor de fundo*/
 
 }
 
 .cabecalho{
-    background-color:#f1ee2cdc;
+    background-color:#f1ef54dc;
     display: flex;/*muda a disposição do elementos para horizontal*/
     align-items: center;
     justify-content: space-between;
