@@ -5,7 +5,7 @@ body{
 }
 
 .cabecalho{
-    background-color:#f1ef54dc;
+    background-color:#1ac5e4dc;
     display: flex;/*muda a disposição do elementos para horizontal*/
     align-items: center;
     justify-content: space-between;
